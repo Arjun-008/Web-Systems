@@ -15,7 +15,6 @@
       <a class="navbar-brand" href="http://localhost/rail/index.html"><p style="font-family: lucida console; font-weight: bold;">TRAVALLAY</p></a>
     </div>
     <ul class="nav navbar-nav">
-      <!--<li class="active"><a href="homepage.php">Home</a></li>-->
       <li><a href="about.php">About Us</a></li>
 	  <li><a href="loginpr.php">Prediction</a></li>
       <li><a href="https://twitter-sentiment-csv.herokuapp.com/">Feedback Analysis</a></li>
@@ -35,7 +34,7 @@
     </form>
 	<ul class="nav navbar-nav navbar-right">
       <li><a href="reg.php"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-      <li><a href="login.php"><span class="glyphicon glyphicon-log-in"></span> Log In</a></li>
+      <li><a href="localhost\rail\index.html"><span class="glyphicon glyphicon-log-in"></span> Home</a></li>
     </ul>
   </div>
 </nav>
@@ -45,3 +44,8 @@
 
 
 
+
+
+?>
+
+?>

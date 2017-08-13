@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,13 +36,15 @@
     </form>
 	<ul class="nav navbar-nav navbar-right">
       <li><a href="reg.php"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-      <li><a href="login.php"><span class="glyphicon glyphicon-log-in"></span> Log In</a></li>
+      <li><a href="login.php"><span class="glyphicon glyphicon-log-in"></span> Log Out</a></li>
     </ul>
   </div>
 </nav>
 
 </body>
 </html>
+
+
 
 
 
